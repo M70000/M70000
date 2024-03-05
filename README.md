@@ -11,7 +11,7 @@
     <h2>💻 Operating Systems & ⚡ GitHub Stats</h2>
     <table><tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=M70000&show_icons=true&hide=prs,contribs&theme=tokyonight" alt="Windows"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=M70000&show_icons=true&hide=prs,contribs&theme=tokyonight" alt="Stats"/>
         </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M70000&layout=compact&theme=tokyonight" alt="Top Languages"/>
