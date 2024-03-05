@@ -11,10 +11,10 @@
     <h2>💻 Operating Systems & ⚡ GitHub Stats</h2>
     <table><tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=M70000&show_icons=true&theme=transparent" alt="Windows"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=M70000&show_icons=true&theme=tokyonight" alt="Windows"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M70000&layout=compact&theme=dark" alt="Top Languages"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M70000&layout=compact&theme=tokyonight" alt="Top Languages"/>
         </td>
     </tr></table>
 </div>
