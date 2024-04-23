@@ -1,7 +1,7 @@
 <div align="center">
     <h2>🦇 About Me</h2>
     <p>
-        <i>"In the realm of technology, I'm akin to a bat: gracefully gliding through the codebase, but beneath the surface, there's a whirlwind of activity fueled by C++ programming. This unique fusion of tranquility and complexity defines my journey in coding."</i>
+        <i>"Software developer specialized in C++ and C# with practical experience in other technologies as Python, Java and SQL. With problem-solving skills and a passion for learning. I love finding innovative ways to improve the efficiency of my projects."</i>
     </p>
 </div>
 
